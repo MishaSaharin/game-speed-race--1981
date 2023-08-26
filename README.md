@@ -1,7 +1,6 @@
-# SpeedRace1981
-https://javarush.com/projects/apps/356393
+# The Game Speed Race 1981
+* to play [Speed Race](https://javarush.com/projects/apps/356393)
 
-Вы когда-нибудь играли в видеоигру Speed Race? Не уверены? А, быть может, Wheels? «Автослалом»?
-Хорошо, а в такую игру, где вы управляете машинкой, едете на большой скорости и попутно уворачиваетесь от других машин и разных, порою очень нелогичных, препятствий?
-игрок, который умеет рулить вправо и влево, а также ускоряться, есть движущиеся по горизонтали и вертикали объекты — другие машины, а также неподвижные препятствия. 
-Цель — добраться до финишной линии, не врезавшись ни в один из этих объектов. Финишная черта появится через какое-то определённое количество препятствий.
+## Speed Race is a one or two-player racing video game where players controls a race car along a constantly-scrolling vertical road. The player uses a steering wheel to move the car left or right and an accelerator to make it move faster. The objective of the game is to drive past other cars that scroll past the players under a 90-second time limit without colliding into them. The time limit and the player's score are displayed on an auxiliary LED display placed above the monitor. Points are earned by driving past cars, with additional points being awarded based on how fast the car is moving. Colliding with a car resets the player's speed and starts them at the beginning of the track. The game ends when the time limit runs out, though the timer can be extended by earning a certain number of points. Two difficulty modes are available that increase the speed of the cars and the number of cars on the track.
+
+## Вы когда-нибудь играли в видеоигру Speed Race? Не уверены? А, быть может, Wheels? «Автослалом»? Хорошо, а в такую игру, где вы управляете машинкой, едете на большой скорости и попутно уворачиваетесь от других машин и разных, порою очень нелогичных, препятствий? игрок, который умеет рулить вправо и влево, а также ускоряться, есть движущиеся по горизонтали и вертикали объекты — другие машины, а также неподвижные препятствия. Цель — добраться до финишной линии, не врезавшись ни в один из этих объектов. Финишная черта появится через какое-то определённое количество препятствий.
